@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.env
+.venv
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+*.swn
+*.swm
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+backup_for_cleanup/
+```
+
+## 📋 手动 Git 推送步骤
+
+由于 Git 未安装，请按以下步骤操作：
+
+### 1. **安装 Git（如果未安装）**
+- Windows 下载：https://gitforwindows.org/
+- 安装后重启终端
+
+### 2. **打开 PowerShell 并执行**
+```powershell
+cd "E:\The PlatterFoundry"
+git init
+git remote add origin https://github.com/4gcy6tzy6n-coder/yyl624.git
+git config user.name "Your Name"
+git config user.email "your.email@example.com"
+git add .
+git commit -m "Initial commit: The PlatterFoundry - next-gen network transport research platform
+
+- Cleaned up project for open source release
+- All core source code preserved (100% complete)
+- All experiment scripts and examples included
+- Removed temporary and duplicate files"
+git branch -M main
+git push -u origin main
+```
+
+如果已有内容，可能需要：
+```bash
+git push -u origin main --force
+```
+
+完成！
