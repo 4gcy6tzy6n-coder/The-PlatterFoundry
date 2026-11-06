@@ -213,7 +213,7 @@ If you use The PlatterFoundry in your research, please cite:
 ```bibtex
 @article{PlatterFoundry,
   title={The PlatterFoundry: Next-Generation Network Transport Algorithm Research Platform},
-  author={Project Contributors},
+  author={Yingliang Yao and Meng Xu and Yuanqi Liang and Liangdanlin Zhu and Yaoguang Wang and Ronglin Tang and Changbin Zhao and Mingyu Song and Bingshu Fan},
   journal={IEEE Network},
   year={2026},
   doi={10.1109/MNET.2026.3733134},
