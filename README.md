@@ -7,7 +7,7 @@ The PlatterFoundry is a next-generation network transport algorithm research pla
 
 ## 🚀 Features
 
-- **Academic-Grade Experiments**: IEEE/ACM ToN standard experiment workflows
+- **Academic-Grade Experiments**: IEEE Network standard experiment workflows
 - **Advanced Estimation Algorithms**: Adaptive Kalman filter implementations
 - **Intelligent Network Modeling**: Multi-state packet loss models with EM learning
 - **Fairness Validation**: Multi-dimensional fairness verification framework
