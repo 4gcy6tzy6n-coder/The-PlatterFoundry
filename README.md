@@ -114,8 +114,8 @@ python run_all_experiments.py
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/4gcy6tzy6n-coder/yyl624.git
-cd yyl624
+git clone https://github.com/4gcy6tzy6n-coder/The-PlatterFoundry.git
+cd The-PlatterFoundry
 
 # Create virtual environment (optional but recommended)
 python -m venv venv
@@ -211,17 +211,19 @@ For questions and support:
 If you use The PlatterFoundry in your research, please cite:
 
 ```bibtex
-@misc{PlatterFoundry,
+@article{PlatterFoundry,
   title={The PlatterFoundry: Next-Generation Network Transport Algorithm Research Platform},
   author={Project Contributors},
-  year={2025},
-  howtitle={https://github.com/4gcy6tzy6n-coder/yyl624}
+  journal={IEEE Network},
+  year={2026},
+  doi={10.1109/MNET.2026.3733134},
+  url={https://github.com/4gcy6tzy6n-coder/The-PlatterFoundry}
 }
 ```
 
 ## 🙏 Acknowledgments
 
-- IEEE/ACM ToN academic standards
+- IEEE Network
 - Network transport research community
 - Open source contributors
 ```
